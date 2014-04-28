@@ -5,7 +5,7 @@
 # 2012-10-29 13:54:20 
 
 ###############################################################################
-# Copyright (c) 2012 SourceLogix
+# Copyright (c) Ramesh Elaiyavalli
 # Author: Ramesh Elaiyavalli
 #
 #  The above copyright notice and this permission notice shall be included
@@ -257,13 +257,3 @@ if __name__=='__main__':
 	main()
 import cProfile
 cProfile.run('main()')
-# To Do
-# Fix the default directory issue
-# Change to use wildcard patterns - US1* US1G* *M etc
-# Explore possibility of multi - processing
-# Progress Bar
-# Logging
-# Why os.environ does not work?
-# Create module/ package
-# CM
-# Paralell processing
