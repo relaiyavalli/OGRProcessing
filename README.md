@@ -16,7 +16,8 @@ Here are the highlights...
 
 Need a clean instance of PostGIS database with "geometry_column" table only
 
-~~Run the batch on command prompt like >>python ImportENC-Q.py -d ..\Vector\ENCData -f US1 >ENC.log 2>&1 && type ENC.log
+~~Run the batch on command prompt like 
+>>python ImportENC-Q.py -d ..\Vector\ENCData -f US1 >ENC.log 2>&1 && type ENC.log
 
 ~~Any questions/ comments - please comment on GitHub. Have fun by being productive!
 
